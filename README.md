@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yu-mei
 - 👀 I’m interested in Robotic Modeling and Control, Soft Robotics and Rehabilitation Robots
-- 🌱 I’m currently pursuing Ph.D degree in Electrical and Computer Engineering at Michigan State University
+- 🌱 I’m currently a Ph.D student in Electrical and Computer Engineering at Michigan State University
 - 💞️ I’m looking to collaborate on Soft Robotic Simulation and Control Theory
 - 📫 You can reach me via email: yumeimsu@gmail.com
 
